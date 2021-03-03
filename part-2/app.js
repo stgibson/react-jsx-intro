@@ -18,5 +18,5 @@ const App = () => {
       date="September 6, 1980"
       message="If it can be written, or thought, it can be filmed."
     />
-  </div>
+  </div>;
 };
